@@ -1,1 +1,3 @@
-# CreativeCoding1HW
+# MART120_Homework
+
+Creative Coding Repository 
