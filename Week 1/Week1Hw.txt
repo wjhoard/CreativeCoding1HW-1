@@ -1,0 +1,13 @@
+Both CLI and GUI are ways we can interact with operating systems. 
+However, while CLI (command-line interface) takes commands via text in a terminal or console, GUI (graphical user interface) 
+relies on graphics and visual elements that users interact with on their computer. 
+These graphics include widgets and icons created by app developers, allowing users to navigate their operating system easily. Think a Google icon or the GitHub desktop icon.
+GUIs have a relatively low level of difficulty for users but are limited to the predefined commands given to them by their developers.
+
+CLIs, on the other hand, provide users with much more freedom and flexibility to interact with their operating systems. 
+Users who use CLI can access different applications and code specific commands through text commands. 
+They give users much more ability to customize and edit their experiences within their operating systems. 
+However, because of this, they require more knowledge of syntax and coding languages. 
+Coders often use CLIs to access their operating system and write new applications.
+It's also curcial that anyone who wishes to code understands CLI.
+While GUIs are great for beginners, CLIs are preferred by advanced coders for complex tasks that might not be available to do through a GUI.
